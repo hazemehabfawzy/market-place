@@ -178,9 +178,6 @@ No additional configuration is needed for basic setup.
 
 STEP 3: BUILD AND START SERVICES
 ---------------------------------
-Navigate to the project directory:
-cd "market place"
-
 Start all services:
 docker-compose up -d
 
